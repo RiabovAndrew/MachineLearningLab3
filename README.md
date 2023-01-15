@@ -32,4 +32,4 @@ That's it =)
 
 ## Recap
 
-This AI can generate realistic images based on simple drawings. Interesting part is increadible amount of image and theme variations.
+This AI can generate realistic images based on simple drawings. Interesting part is an increadible amount of image and theme variations.
