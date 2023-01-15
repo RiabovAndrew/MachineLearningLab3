@@ -14,3 +14,22 @@
 
 3) Open _NVIDIA Canvas_
 
+![image](https://user-images.githubusercontent.com/43186510/212551377-5d8670fe-2f6e-4e74-9d27-51becede5ce0.png)
+
+4) At the left side just paint any painting using materials listed at the right vertical toolbar.
+
+![image](https://user-images.githubusercontent.com/43186510/212551458-5f7cc108-26f9-433e-8533-8d75b0d287f5.png)
+
+5) Change variation.
+
+![image](https://user-images.githubusercontent.com/43186510/212551530-39f3df78-e4e4-4b9a-b6bb-793bd9d635d9.png)
+
+6) Change theme.
+
+![image](https://user-images.githubusercontent.com/43186510/212551566-cbfe9d36-cb85-4c27-8a5d-eec874c7c6f5.png)
+
+That's it =)
+
+## Recap
+
+This AI can generate realistic images based on simple drawings. Interesting part is increadible amount of image and theme variations.
